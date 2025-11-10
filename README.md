@@ -10,7 +10,7 @@ Briefly Media would like to launch a News Application which pushes notification 
 3. What is the average rating for each platfrom?
 4. What is the average number of reviews per platfrom?
 5. How is the content rating distributed?
-6. How is the price distrubtion per platfrom? 
+6. What is the price distrubtion per platfrom? 
 
 #### Dashboard
 
