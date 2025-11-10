@@ -13,8 +13,8 @@ Briefly Media would like to launch a News Application which pushes notification 
 6. What is the price distrubtion per platfrom? 
 
 ### Dashboard (Overview/News Specific)
-[Tableau Dashboard Overall](images/Dashboard_overall.png)
-[Tableau Dashboard News Genre](images/Dashboard_NewsGenre.png)
+![Tableau Dashboard Overall](images/Dashboard_overall.png)
+![Tableau Dashboard News Genre](images/Dashboard_NewsGenre.png)
 
 ### Recommendations
 1. Focus on Google to build a larger and stronger audience.
